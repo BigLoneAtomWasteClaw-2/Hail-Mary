@@ -448,7 +448,19 @@ ROUNDSTART_RACES human
 ROUNDSTART_RACES ghoul
 ROUNDSTART_RACES smutant
 
-
+## Furry races and non-standard species
+ROUNDSTART_RACES lizard
+ROUNDSTART_RACES synthliz
+ROUNDSTART_RACES felinid
+ROUNDSTART_RACES dwarf
+ROUNDSTART_RACES mammal
+ROUNDSTART_RACES avian
+ROUNDSTART_RACES aquatic
+ROUNDSTART_RACES insect
+ROUNDSTART_RACES slimeperson
+ROUNDSTART_RACES ipc
+ROUNDSTART_RACES arachnid
+ROUNDSTART_RACES shadekin
 ##-------------------------------------------------------------------------------------------
 
 ## Uncomment to give players the choice of joining as a human with mutant bodyparts before they join the game
